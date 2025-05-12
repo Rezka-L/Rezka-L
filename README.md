@@ -27,12 +27,8 @@ Selamat datang di portofolio GitHub saya! Di sini, Anda bisa menjelajahi perjala
 ## 🌟 **Proyek Unggulan**
 
 ### 📱 **Aplikasi Manajemen Tugas**
-![Screenshot Proyek](https://via.placeholder.com/600x400.png?text=Project+1)
-[Link ke Proyek](https://github.com/yourusername/todolist-app)
-
-### 🖼️ **Pendeteksi Wajah dengan Python**
-![Proyek GIF](https://media.giphy.com/media/3o7qE6o2S6HChX0IOY/giphy.gif)
-[Link ke Proyek](https://github.com/yourusername/face-detection)
+![Screenshot Proyek](belom ada)
+[Link ke Proyek](belom ada)
 
 ---
 
@@ -46,9 +42,9 @@ Selamat datang di portofolio GitHub saya! Di sini, Anda bisa menjelajahi perjala
 ## 🎓 **Pendidikan**
 
 ### **SMP Negeri XYZ**  
-**Kelas 9 (2025 - Sekarang)**
+** (2022 - Sekarang)**
 
-- **Deskripsi**: Saat ini saya sedang menempuh pendidikan di tingkat SMP, dengan fokus pada mata pelajaran yang berkaitan dengan teknologi, seperti **Matematika**, **IPA**, dan **Informatika**.
+- **Deskripsi**: Saat ini saya sedang menempuh pendidikan di tingkat SMP, dengan fokus pada mata pelajaran yang berkaitan dengan teknologi, seperti **Informatika**.
 
 ---
 
