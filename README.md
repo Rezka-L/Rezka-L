@@ -2,7 +2,7 @@
 
 Selamat datang di portofolio GitHub saya! Di sini, Anda bisa menjelajahi perjalanan saya sebagai pengembang perangkat lunak. Saya bersemangat menciptakan solusi inovatif, efisien, dan scalable. Jika Anda tertarik dengan apa yang saya buat, mari kita terhubung!
 
-![Banner Portofolio](https://github.com/Rezka-L/banner)
+![Banner Portofolio](https://github.com/Rezka-L/banner/blob/main/rezdev.png)
 
 ---
 
