@@ -1,34 +1,84 @@
-- 👋 Hi, I’m @Rezka-L
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-# Digital
 
-Digital adalah platform inovatif yang memungkinkan pengguna untuk mengelola, mengakses, dan berbagi informasi secara digital. Dirancang untuk memberikan pengalaman pengguna yang mulus, aplikasi ini mengoptimalkan pengelolaan data digital melalui fitur-fitur canggih dan antarmuka yang intuitif.
+👨‍💻 Portofolio [Rezka]
 
-## Fitur
-
-- **Pengelolaan Data Digital**: Mudah mengelola file, dokumen, dan data dalam berbagai format.
-- **Pencarian Cepat**: Menemukan data dan file dengan cepat menggunakan fitur pencarian yang efisien.
-- **Cloud Integration**: Mendukung sinkronisasi dan penyimpanan file secara online.
-- **Keamanan Tinggi**: Menyediakan proteksi data melalui enkripsi dan otentikasi multi-faktor.
-- **UI/UX yang Responsif**: Desain antarmuka pengguna yang ramah dan mudah digunakan pada berbagai perangkat.
-
-## Instalasi
-
-### Persyaratan Sistem
-
-- Sistem Operasi: Windows / macOS / Linux
-- Node.js (untuk aplikasi berbasis web)
-- Database yang didukung: MongoDB, PostgreSQL
-
-### Rezka
+Selamat datang di portofolio GitHub saya! Di sini, Anda bisa menjelajahi perjalanan saya sebagai pengembang perangkat lunak. Saya bersemangat menciptakan solusi inovatif, efisien, dan scalable. Jika Anda tertarik dengan apa yang saya buat, mari kita terhubung!
 
 
-<!---
-Rezka-L/Rezka-L is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+---
+
+🔧 Keterampilan Utama
+
+🔨 Pengembangan Web
+
+Frontend: React, Vue.js, HTML, CSS, TailwindCSS, Bootstrap
+
+Backend: Node.js, Express, Flask
+
+Database: MongoDB, MySQL, PostgreSQL
+
+
+📱 Pengembangan Mobile
+
+Flutter, React Native, Kotlin, Swift
+
+
+🔒 Keamanan & DevOps
+
+Docker, Kubernetes, CI/CD, Git
+
+
+🧠 AI & Machine Learning
+
+Python, TensorFlow, PyTorch
+
+
+
+---
+
+🌟 Hobi & Minat
+
+🎮 Game Developer: Mengembangkan game kecil sebagai proyek sampingan, terutama menggunakan Unity dan Unreal Engine.
+
+📚 Membaca: Membaca buku tentang teknologi terbaru dan inovasi dalam pengembangan perangkat lunak.
+
+📝 Menulis Blog: Berbagi pengetahuan tentang pengembangan web, mobile, dan teknologi terbaru di blog pribadi.
+
+🌍 Berkontribusi pada Proyek Open Source: Aktif berpartisipasi dalam berbagai proyek open-source untuk memperluas pengetahuan dan pengalaman.
+
+
+
+---
+
+🎯 Tujuan Karir
+
+Mengembangkan keterampilan lebih lanjut dalam AI dan Machine Learning, dengan tujuan membangun aplikasi yang lebih pintar dan efisien.
+
+Berkontribusi lebih banyak dalam proyek open-source dan membangun komunitas pengembang yang lebih kuat.
+
+Mencapai peran kepemimpinan dalam tim pengembangan perangkat lunak dan menjadi mentor bagi pengembang muda.
+
+
+
+---
+
+
+💬 Hubungi Saya
+
+Jika Anda tertarik untuk berkolaborasi atau ingin mendiskusikan teknologi terbaru, jangan ragu untuk menghubungi saya!
+
+Email: rezkaaaa77@gmail.com
+
+
+
+
+
+---
+
+📜 Lisensi
+
+Semua proyek dalam repositori ini bersifat open-source dan dilisensikan di bawah MIT License.
+
+
+---
